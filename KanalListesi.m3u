@@ -1,0 +1,179 @@
+#EXTM3U
+
+#EXTINF:-1,[I][B][COLOR WHITE]-------TURKISH_TV-------[/COLOR][/B][/I]
+
+#EXTINF:-1 tvg-id="id1" tvg-name="TRT_1_HD" group-title"TURKISH",TRT 1 HD 1280*738
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="id2" tvg-name="CNN_TURK" group-title"TURKISH",CNN TURK HD 
+http://212.224.108.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="id3" tvg-name="HABERTURK" group-title"TURKISH",HABERTÜRK m3u8
+http://mn-l.mncdn.com/haberturk/haberturk2/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-id="id4" tvg-name="TRT_HABER" group-title"TURKISH",TRT HABER 1280*738
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="id5" tvg-name="Bloomberg_TV_Turkish" group-title"TURKISH",BLOOMBERG HT
+http://mn-l.mncdn.com/bloomberght/bloomberght2/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-id="id6" tvg-name="DHA_NEWS_Turkish"group-title"TURKISH",DHA
+http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
+
+#EXTINF:-1 tvg-id="id7" tvg-name="SHOW_TV" group-title"TURKISH",SHOW TV HD 960*546
+http://live-ciner.mncdn.net/showtv/showtv2/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-id="id8" tvg-name="Star_TV" group-title"TURKISH", STAR TV
+http://188.72.131.226/star.m3u8 
+
+#EXTINF:-1 tvg-id="id9" tvg-name="Fox_HD_Turkish" group-title"TURKISH",FOX HD 1280*738
+rtmp://37.187.164.118:1938/live//webtvplay_test
+
+#EXTINF:-1 tvg-id="id10" tvg-name="Flash_TV" group-title"TURKISH",FLASH TV
+http://184.173.181.2:1935/8158/8158/chunklist_w1108112917.m3u8
+
+#EXTINF:-1 tvg-id="id11" tvg-name="Kanal_24" group-title"TURKISH",24 TV
+http://mn-l.mncdn.com:1935/kanal24/kanal243/playlist.m3u8
+
+#EXTINF:-1 tvg-id="id12" tvg-name="Beyaz_TV" group-title"TURKISH",BEYAZ TV
+http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="id13" tvg-name="PLANET_PEMBE_TURKISH" group-title"TURKISH",PLANET PEMBE 
+rtmp://77.223.146.117/live/planetp
+
+#EXTINF:-1 tvg-id="id13" tvg-name="PLANET_TURK" group-title"TURKISH",PLANET TURK 
+rtmp://77.223.146.117/live/planett
+
+#EXTINF:-1 tvg-id="id14" tvg-name="Dream_Turk_TV" group-title"TURKISH",DREAM TÜRK TV m3u8 -720*576
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="id15" tvg-name="POWER_TV_HD" group-title"TURKISH",POWER TV HD 1280*738
+http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/chunklist_w29105981_b1328000.m3u8
+
+#EXTINF:-1 tvg-id="id16" tvg-name="POWERTURK" group-title"TURKISH",POWERTURK HD 1280*738
+http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/chunklist_w274236643_b1328000.m3u8
+
+#EXTINF:-1 tvg-id="id17" tvg-name="TRT_AVAZ" group-title"TURKISH",TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="id18" tvg-name="TRT_BELGESEL" group-title"TURKISH",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="id19" tvg-name="TRT_COCUK" group-title"TURKISH",TRT ÇOCUK 1024*578
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,tvg-id="id20" tvg-name="TRT_SPOR" group-title"TURKISH", TRT Spor
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_500_v-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="id21" tvg-name="TRT_MUZIK" group-title"TURKISH",TRT MUZIK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="id22" tvg-name="TRT_OKUL" group-title"TURKISH",TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="id23" tvg-name="TRT_TURK" group-title"TURKISH",TRT TÜRK 1024*578
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="id24" tvg-name="TRT_WORLD" group-title"TURKISH",TRT WORLD 1280*738
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="id25" tvg-name="TV_NET_TURKISH" group-title"TURKISH",TV NET
+http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
+
+#EXTINF:-1 tvg-id="id26" tvg-name="UCAN_KUS_TURKISH" group-title"TURKISH",UCAN KUS
+http://37.77.2.236:1935/ucak/ucak.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="id27" tvg-name="ULKE_TV_TURKISH" group-title"TURKISH",ÜLKE TV HD m3u8 -720*500
+http://livetr.gostream.nl/ulketvhq/ulketvhq/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-id="id28" tvg-name="REHBER_TV_TURKISH" group-title"TURKISH", REHBER TV
+rtmp://yayin5.canliyayin.org:1935/live/rehbertv
+
+#EXTINF:-1 tvg-id="id29" tvg-name="Turkish_Documentary_TV" group-title"TURKISH",DOCUMENTARY TR http
+http://188.165.239.200:7088/
+
+#EXTINF:-1 tvg-id="id30" tvg-name="Finest_TV_Turkish" group-title"TURKISH",FINEST TV
+http://62.153.171.60:1466
+
+#EXTINF:-1 tvg-id="id40" tvg-name="EURONEWS_Turkish" group-title"TURKISH",EuroNews Turkish
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/tr_vidan750_rtp.sdp
+
+
+#EXTINF:-1,[I][B][COLOR RED]-------Canadian_TV-------[/COLOR][/B][/I]
+
+
+#EXTINF:-1 tvg-id="id50" tvg-name="GLOBAL_HALIFAX" group-title="CANADIAN TV", Global TV HALIFAX (ca)
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
+
+#EXTINF:-1 tvg-id="id51" tvg-name="GLOBAL_BC" group-title="CANADIAN TV", GLOBAL BC News
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8
+
+#EXTINF:-1 tvg-id="id52" tvg-name="GLOBAL_TORONTO" group-title="CANADIAN TV",GLOBAL TORONTO
+https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="id60" tvg-name="THE_SHOPPING_CHANNEL" group-title="CANADIAN TV", TSC The shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-id="id80" tvg-name="CPAC-TV" group-title="CANADIAN TV", CPAC
+http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
+
+#EXTINF:-1 tvg-id="id90" tvg-name="SPORTSNET_360_HD" group-title="CANADIAN TV", SPORTSNET 360HD CANADA HD
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+
+
+#EXTINF:-1,[I][B][COLOR GREEN]-------WORLD_TV-------[/COLOR][/B][/I]
+
+
+
+#EXTINF:-1 tvg-id="id100" tvg-name="GENESIS_SCIENCE_NETWORK" group-title="WORLD_TV" tvg-logo="http://channelpear.com/images/media/5141.jpg", Genesis Science Network
+http://genesis.tulix.tv:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="id101" tvg-name="UFO_CHANNEL" group-title="WORLD_TV" tvg-logo="http://channelpear.com/images/media/6803.jpg", UFO Channel
+http://veetle.com/index.php/hls/streamMbrfast/5570083766031_/stream.m3u8
+
+#EXTINF:-1 tvg-id="id102" tvg-name="WORLD_FASHION_CHANNEL" group-title="WORLD_TV" tvg-logo="http://channelpear.com/images/media/102.png", World Fashion Channel
+http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="id103" tvg-name="NASA_TV" group-title="WORLD_TV" tvg-logo="http://channelpear.com/images/media/3807.jpg", NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="id104" tvg-name="NFL_LIVE" group-title="WORLD_TV" tvg-logo="http://channelpear.com/images/media/9095.png", NFL Now Live
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+
+
+ 
+#EXTINF:-1,[I][B][COLOR BLUE]-------STREAM_CHANNELS-------[/COLOR][/B][/I]
+ 
+ 
+#EXTINF:-1 tvg-id="id200" tvg-name="FAMILY_MOVIES_(24/7)" group-title="STREAM_CHNLS" ,Family Movies (24/7)
+http://veetle.com/index.php/hls/streamMbrFast/4d6934c2476b3_/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="id201" tvg-name="CLASSIC_MOVIES_(24/7)" group-title="STREAM_CHNLS", Classics (24/7)
+http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8
+
+#EXTINF:-1 tvg-id="id202" tvg-name="CLASSIC_BW_MOVIES_(24/7)" group-title="STREAM_CHNLS"tvg-logo="http://channelpear.com/images/media/6638.jpg", Film Noir Classic Channel  (24/7)
+http://veetle.com/index.php/hls/streamMbrfast/560254c83ba47_/stream.m3u8
+
+
+#EXTINF:-1,[I][B][COLOR YELLOW]-------CARTOON_CHANNELS-------[/COLOR][/B][/I]
+
+ 
+#EXTINF:-1 tvg-id="id220" group-title="Cartoons" tvg-logo="http://logos.iptvglobal.com.br/Tom%20e%20Jerry.jpg", Tom & Jerry
+rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+ 
+#EXTINF:-1 tvg-id="id221" group-title="Cartoons", South Park - Uncensored (24/7)
+http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="id222" group-title="Cartoons", Simpsons (24/7)
+http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="id223" group-title="Cartoons" tvg-logo="http://channelpear.com/images/media/7188.jpg", SpongeBob (24/7)
+http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
+ 
+#EXTINF:-1 tvg-id="id224" group-title="Cartoons", King of the Hill (24/7)
+http://veetle.com/index.php/hls/streamMbrFast/4f9436ece56e2_/stream.m3u8
+
