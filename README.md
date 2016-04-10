@@ -1,1 +1,3 @@
 # androidbox
+
+This is a repository for personal collection of Channels around the world that I like watching...
